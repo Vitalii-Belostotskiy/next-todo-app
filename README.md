@@ -25,4 +25,3 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
   - `git clone https://github.com/Vitalii-Belostotskiy/next-todo-app.git`
   - You need to have node version v20.17.0
 
-[DEMO LINK](https://vitalii-belostotskiy.github.io/next-todo-app/)
